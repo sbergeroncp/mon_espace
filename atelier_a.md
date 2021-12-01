@@ -10,5 +10,8 @@ Journée du numérique - 3 décembre
 ## @showdialog
 Transforme le porte-nom ordiaire en un porte-nom numérique.
 
+![CSSBF](https://github.com/sbergeroncp/tuto/blob/master/dice.png?raw=true)
+
 Colorie et dessine sur le porte-nom au besoin!
 
+## @showdialog
