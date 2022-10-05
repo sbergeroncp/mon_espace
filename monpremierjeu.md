@@ -22,7 +22,7 @@ scene.setBackgroundColor(9)
 
 Crée une ``||variables:variable||``. Nomme celle-ci ``||variables:perso1.||``.
 
-Ajoute le bloc ``||variables:définir perso1||`` sous le bloc ``||scene:définir la couleur de l'arrière-plan||``.
+Ajoute le bloc ``||variables:définir perso1||`` dans le bloc ``||loops:au démarrage||``.
 
 ```blocks
 
