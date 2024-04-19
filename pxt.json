@@ -2,21 +2,15 @@
     "name": "mon_espace",
     "version": "1.1.4",
     "description": "",
-    "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
-    },
+    "dependencies": {},
     "files": [
-        "main.blocks",
         "tuto_1.md",
         "tuto_2.md",
         "tuto_3.md",
         "tuto_4.md",
         "tuto_5.md",
         "tuto_6.md",
-        "tutorial-info-cache.json",
-        "main.ts"
+        "tutorial-info-cache.json"
     ],
     "testFiles": [],
     "public": true,
