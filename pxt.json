@@ -16,8 +16,7 @@
         "tuto_4.md",
         "tuto_5.md",
         "tuto_6.md",
-        "tutorial-info-cache.json",
-        "main.ts"
+        "tutorial-info-cache.json"
     ],
     "testFiles": [],
     "public": true,
