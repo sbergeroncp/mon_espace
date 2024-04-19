@@ -8,7 +8,6 @@
         "microphone": "*"
     },
     "files": [
-        "README.md",
         "main.blocks",
         "tuto_1.md",
         "tuto_2.md",
