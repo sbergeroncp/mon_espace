@@ -1,4 +1,4 @@
-# Tutoriel 1
+# Tuto 1
 
 ## @showdialog
 
