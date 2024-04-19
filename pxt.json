@@ -16,7 +16,8 @@
         "tuto_3.md",
         "tuto_4.md",
         "tuto_5.md",
-        "tuto_6.md"
+        "tuto_6.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
