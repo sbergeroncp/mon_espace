@@ -10,18 +10,16 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts",
         "tuto_1.md",
         "tuto_2.md",
         "tuto_3.md",
         "tuto_4.md",
         "tuto_5.md",
         "tuto_6.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "main.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "public": true,
     "targetVersions": {
         "target": "1.12.51",
